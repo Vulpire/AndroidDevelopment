@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InClass02</string>
+    <string name="ticket_price">Ticket Price:</string>
+    <string name="hint">Enter Ticket Price</string>
+    <string name="pricelabel">Discounted Price:</string>
+    <string name="five">5%</string>
+    <string name="ten">10%</string>
+    <string name="fifteen">15%</string>
+    <string name="twenty">20%</string>
+    <string name="fifty">50%</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">clear</string>>
+    <string name="discount">Discount:</string>>
+    <string name="toast">Please enter a positive number</string>
+</resources>

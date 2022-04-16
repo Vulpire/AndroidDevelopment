@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayoutForums"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ForumsFragment"
+    android:padding="10dp"
+    android:background="@color/white">
+
+    <Button
+        android:id="@+id/buttonForumsLogout"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:text="@string/logout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonForumsNewForum"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:text="@string/new_forum"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewForums"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonForumsLogout" />
+</androidx.constraintlayout.widget.ConstraintLayout>

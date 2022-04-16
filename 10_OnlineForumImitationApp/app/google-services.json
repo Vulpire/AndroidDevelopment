@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77028108387",
+    "project_id": "hw06-b8820",
+    "storage_bucket": "hw06-b8820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77028108387:android:8f7e010e39149a255ab056",
+        "android_client_info": {
+          "package_name": "com.example.wofford_hw06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77028108387-9qc1jr4ot68mvjugh5kfgif35dsifmaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVdMOz4Cq_krLgl1a1pQ3IoJA3i0mkpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77028108387-9qc1jr4ot68mvjugh5kfgif35dsifmaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

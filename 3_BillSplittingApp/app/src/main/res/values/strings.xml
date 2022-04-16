@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Group19_HW1</string>
+    <string name = "hint">Enter Bill Total</string>
+    <string name = "textViewBillTotal">Bill Total</string>
+    <string name = "Tip">Tip</string>
+    <string name = "Ten">10%</string>
+    <string name = "Fifteen">15%</string>
+    <string name = "Eighteen">18%</string>
+    <string name = "Custom">Custom</string>
+    <string name ="CustomSlide">Custom: </string>
+    <string name = "TipResultPrompt">Tip: </string>
+    <string name = "TotalResultPrompt">Total: </string>
+    <string name = "totalResult">$0.00</string>
+    <string name = "customPercentTracking">40%</string>
+    <string name = "splitBy">Split By:</string>
+    <string name = "one">One</string>
+    <string name = "two">Two</string>
+    <string name = "three">Three</string>
+    <string name = "four">Four</string>
+    <string name = "totalPerPerson">Total/Person</string>
+    <string name = "TipResult">$0.00</string>
+    <string name = "clearButton">CLEAR</string>
+    <string name = "totalPerResult">$0.00</string>
+</resources>

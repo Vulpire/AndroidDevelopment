@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HW03</string>
+    <string name="you_have_tasks">You have 0 tasks</string>
+    <string name="upcoming_tasks">Upcoming Tasks</string>
+    <string name="taskInfo">Task Information</string>
+    <string name="taskName">Name:</string>
+    <string name="taskDate">Date:</string>
+    <string name="taskPriority">Priority:</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="view_tasks">VIEW TASKS</string>
+    <string name="create_a_task">CREATE A TASK</string>
+    <string name="select_task">Select Task</string>
+    <string name="name">Name:</string>
+    <string name="date">Date:</string>
+    <string name="priority">Priority:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="set_date">Set date</string>
+    <string name="task_name">Task Name</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="name_toast">Please enter a valid name</string>
+    <string name="date_toast">Please enter a date</string>
+    <string name="prior_toast">Please select a priority</string>
+</resources>

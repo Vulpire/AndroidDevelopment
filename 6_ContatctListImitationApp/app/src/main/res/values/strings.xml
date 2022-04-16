@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wofford_HW04</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="users">Users</string>
+    <string name="filter_by_state">Filter By State</string>
+</resources>

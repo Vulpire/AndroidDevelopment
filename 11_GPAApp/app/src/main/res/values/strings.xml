@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Group19_InClass10</string>
+    <string name="courses">Courses</string>
+    <string name="gpa">GPA:</string>
+    <string name="hours">Hours</string>
+    <string name="course_name">Course Name</string>
+    <string name="credit_hours">Credit Hours</string>
+    <string name="course_number">Course Number</string>
+    <string name="course_grade">Course Grade</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="f">F</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="itis">ITIS</string>
+</resources>

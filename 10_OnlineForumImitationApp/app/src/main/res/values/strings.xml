@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wofford_HW06</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new_acct">Create New Account</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="new_forum">New Forum</string>
+    <string name="submit">Submit</string>
+    <string name="forum_title">Forum Title</string>
+    <string name="forum_desc">Forum Description</string>
+    <string name="write_comment">Write Comment</string>
+    <string name="post">Post</string>
+</resources>

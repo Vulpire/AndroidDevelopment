@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DepartmentActivity">
+
+    <RadioGroup
+        android:id="@+id/deptGroup"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/radioButtonCS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/computerScience" />
+
+        <RadioButton
+            android:id="@+id/radioButtonSIS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/softwareInfo" />
+
+        <RadioButton
+            android:id="@+id/radioButtonBI"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bioInfo" />
+
+        <RadioButton
+            android:id="@+id/radioButtonDS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dataScience" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonDeptCancel"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/cancel"
+        android:textColor="#000000"
+        app:backgroundTint="#BEBEBE"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/buttonDeptSelect"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/select"
+        android:textColor="#000000"
+        app:backgroundTint="#BEBEBE"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
